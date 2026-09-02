@@ -2,6 +2,12 @@
 
 **SD5976 Final Project**
 
+[▶ Open the complete interactive experience](final.html) · [Play the boss battle](game/index.html)
+
+![Project cover](cover.JPG)
+
+![Complete interactive experience preview](docs/images/interactive-experience-preview.png)
+
 ---
 
 ## Overview
